@@ -22,7 +22,7 @@ I'm a data visualisation specialist and microbiologist, passionate about telling
 
 ## 📊 GitHub stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sburgess2&show_icons=true&theme=default&hide_border=true)
 
 ---
 
