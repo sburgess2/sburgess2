@@ -17,13 +17,5 @@ I'm a data visualisation specialist and microbiologist, passionate about telling
 - [Creating Sankey diagrams for visualising antimicrobial resistance genes in *E. coli*](https://sburgess2.github.io/sankey_amr/)
 
 
----
-
-
-## 📊 GitHub stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sburgess2&show_icons=true&theme=default&hide_border=true)
-
----
 
 
