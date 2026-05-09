@@ -6,7 +6,7 @@ I'm a data visualisation specialist and microbiologist, passionate about telling
 - I'm a researcher at Massey University and a freelance data visualisation specialist looking for opportunities.
 - I live in Palmerston North, New Zealand.
 - Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-burgess-85b32045) 
-- You can find out more about me on my website [greenhooddata.co.nz].
+- You can find out more about me on [my website](greenhooddata.co.nz).
 
 ---
 
